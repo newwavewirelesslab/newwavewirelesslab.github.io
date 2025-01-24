@@ -1,0 +1,16 @@
+- name: Dr. Arman Farhang
+  photo: Arman.jpeg
+  info: Arman Farhang Kinsella Assistant Professor, Electronic & Elect. Engineering, Trinity College Dublin
+  email: richard@university.edu
+  researchgate: https://www.researchgate.net/
+  scholar: https://scholar.google.com/citations?user=4mmMP_IAAAAJ&hl=en
+  cv: cv/cv.pdf
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "(1942) Ph.D. Physics, Princeton University",
+      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+    ]
+
+  educationshort:
+    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]

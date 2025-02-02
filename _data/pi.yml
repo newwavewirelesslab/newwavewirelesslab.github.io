@@ -8,9 +8,9 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2015) Ph.D. in Wireless Communications, Trinity College Dublin",
+      "(2010) M.Sc. in Electrical Engineering, Communications, Sadjad University of Technology",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2015) Ph.D. in Wireless Communications, TCD", "(2010)  M.Sc. in Communications, Sadjad University"]

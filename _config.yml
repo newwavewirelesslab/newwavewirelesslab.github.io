@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: NEW WAVE
+email: arman.farhang@tcd.ie
+description: Academic webpage for NEW WAVE
 baseurl: ""
 url: ""
 
@@ -12,12 +12,12 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Arman Farhang<br/>
+  Kinsella Assistant Professor of Electronic & Elect. Engineering <br/>
+  Trinity College Dublin
 
 location: >
-  California Institute of Technology<br/>
+  Trinity College Dublin<br/>
   1200 E California Blvd<br/>
   Pasadena, CA 91125
 

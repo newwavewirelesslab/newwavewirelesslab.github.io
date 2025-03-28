@@ -4,10 +4,10 @@ layout: gridlay
 sitemap: false
 permalink: /team/
 ---
-
+<!-- 
 ## Team
 
-**We are looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
 ## PI
 

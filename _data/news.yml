@@ -1,6 +1,9 @@
-- date: 1 January, 1941
-  headline: "Example news here"
+- date: 24 March, 2025
+  headline: " - IEEE WCNC 2025"
+  body: "We are happy to announce we have presented our accepted papers in the IEEE WCNC 2025 conference in Milan, Italy!"
 
-- date: 1 January, 1940
-  headline: "Example news here"
+- date: 8 December, 2024
+  headline: " - IEEE Globecom 2024"
+  body: "We are happy to announce we have presented our accepted papers in the IEEE Globecom 2024 conference in Cape Town, South Africa!"
+
 
